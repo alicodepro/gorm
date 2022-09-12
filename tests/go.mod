@@ -6,7 +6,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/jackc/pgx/v4 v4.14.1 // indirect
 	github.com/jinzhu/now v1.1.4
-	github.com/lib/pq v1.10.4
+	github.com/lib/pq v1.10.7
 	golang.org/x/crypto v0.0.0-20211209193657-4570a0811e8b // indirect
 	gorm.io/driver/mysql v1.2.1
 	gorm.io/driver/postgres v1.2.3
